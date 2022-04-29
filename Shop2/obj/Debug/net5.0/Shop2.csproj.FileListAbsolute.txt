@@ -20,3 +20,12 @@ C:\Users\77086\source\repos\Shop2\Shop2\obj\Debug\net5.0\Shop2.dll
 C:\Users\77086\source\repos\Shop2\Shop2\obj\Debug\net5.0\ref\Shop2.dll
 C:\Users\77086\source\repos\Shop2\Shop2\obj\Debug\net5.0\Shop2.pdb
 C:\Users\77086\source\repos\Shop2\Shop2\obj\Debug\net5.0\Shop2.genruntimeconfig.cache
+C:\Users\77086\source\repos\Shop2\Shop2\obj\Debug\net5.0\Shop2.csproj.AssemblyReference.cache
+C:\Users\77086\source\repos\Shop2\Shop2\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\77086\source\repos\Shop2\Shop2\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\77086\source\repos\Shop2\Shop2\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\77086\source\repos\Shop2\Shop2\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\77086\source\repos\Shop2\Shop2\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\77086\source\repos\Shop2\Shop2\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\77086\source\repos\Shop2\Shop2\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\77086\source\repos\Shop2\Shop2\obj\Debug\net5.0\Shop2.csproj.CopyComplete
