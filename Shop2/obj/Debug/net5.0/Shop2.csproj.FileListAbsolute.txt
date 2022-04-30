@@ -29,3 +29,16 @@ C:\Users\77086\source\repos\Shop2\Shop2\bin\Debug\net5.0\System.Web.WebPages.Raz
 C:\Users\77086\source\repos\Shop2\Shop2\bin\Debug\net5.0\System.Web.WebPages.dll
 C:\Users\77086\source\repos\Shop2\Shop2\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
 C:\Users\77086\source\repos\Shop2\Shop2\obj\Debug\net5.0\Shop2.csproj.CopyComplete
+C:\Users\77086\source\repos\Shop2\Shop2\bin\Debug\net5.0\Shop2.Views.dll
+C:\Users\77086\source\repos\Shop2\Shop2\bin\Debug\net5.0\Shop2.Views.pdb
+C:\Users\77086\source\repos\Shop2\Shop2\obj\Debug\net5.0\Shop2.RazorAssemblyInfo.cache
+C:\Users\77086\source\repos\Shop2\Shop2\obj\Debug\net5.0\Shop2.RazorAssemblyInfo.cs
+C:\Users\77086\source\repos\Shop2\Shop2\obj\Debug\net5.0\Shop2.TagHelpers.input.cache
+C:\Users\77086\source\repos\Shop2\Shop2\obj\Debug\net5.0\Shop2.TagHelpers.output.cache
+C:\Users\77086\source\repos\Shop2\Shop2\obj\Debug\net5.0\Shop2.RazorCoreGenerate.cache
+C:\Users\77086\source\repos\Shop2\Shop2\obj\Debug\net5.0\Razor\Views\Cars\List.cshtml.g.cs
+C:\Users\77086\source\repos\Shop2\Shop2\obj\Debug\net5.0\Shop2.RazorTargetAssemblyInfo.cs
+C:\Users\77086\source\repos\Shop2\Shop2\obj\Debug\net5.0\Shop2.Views.pdb
+C:\Users\77086\source\repos\Shop2\Shop2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\77086\source\repos\Shop2\Shop2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\77086\source\repos\Shop2\Shop2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
