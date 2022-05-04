@@ -10,18 +10,18 @@ namespace Shop2.Data.Repository
 {
     public class CarRepository : IAllCars
     {
-        private readonly AppDBContent appDBContent;
+        private readonly AppDBContent _appDBContent;
 
         public CarRepository(AppDBContent appDBContent)
         {
-            this.appDBContent = appDBContent;
+            this._appDBContent = appDBContent;
         }
 
 
-        public IEnumerable<Car> Cars => appDBContent.Car.Include(c => c.Category);
+        public IEnumerable<Car> Cars => _appDBContent.Car.Include(c => c.Category);
 
-        public IEnumerable<Car> GetFavCars => appDBContent.Car.Where(p => p.IsFavourite).Include(c => c.Category);
+        public IEnumerable<Car> GetFavCars => _appDBContent.Car.Where(p => p.IsFavourite).Include(c => c.Category);
 
-        public Car getObjectCar(int carId) => appDBContent.Car.FirstOrDefault(p => p.Id == carId);
+        public Car getObjectCar(int carId) => _appDBContent.Car.FirstOrDefault(p => p.Id == carId);
     }
 }
