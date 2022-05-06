@@ -50,7 +50,12 @@ namespace Shop2
             app.UseStatusCodePages();
             app.UseStaticFiles();
             app.UseSession();
-            app.UseMvcWithDefaultRoute();
+            //app.UseMvcWithDefaultRoute();
+            app.UseMvc(routes =>
+            {
+                routes.MapRoute(name: "Default", template: "{Controller=Home}/{Action=Index}/{Id?}");
+                routes.MapRoute(name: "CategoryFilter", template: "Car/{Action}/{Category?}", defaults: new { Controller = "Car", Action = "List" });
+            });
 
             using (var scope = app.ApplicationServices.CreateScope())
             {
